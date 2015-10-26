@@ -24,3 +24,8 @@
 
 # OSX DS Store Ignore
 .DS_Store
+
+# Emacs Temporary files
+*~
+[#]*[#]
+.\#*
